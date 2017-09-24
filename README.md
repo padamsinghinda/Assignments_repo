@@ -1,2 +1,2 @@
-# Temp
+# Assignments
 Just checking out
