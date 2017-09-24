@@ -1,0 +1,12 @@
+id,name,product
+1,A,P1
+1,A,P2
+1,A,P2
+1,A,P3
+2,B,P1
+2,B,P2
+2,B,P2
+3,C,P3
+3,C,P4
+3,C,P1
+4,Padam,Samsung
