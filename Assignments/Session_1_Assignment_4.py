@@ -1,0 +1,4 @@
+dia = 12
+
+vol = (4/3) * (22/7) * 6 * 6 * 6
+print("Volume of sphere with diameter 12 is : %f" %vol)
